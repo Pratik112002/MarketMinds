@@ -34,10 +34,6 @@ This app uses the Alpha Vantage API to fetch real-time stock data. To use the AP
 1.Get your free API key from Alpha Vantage.
 
 2.Replace the placeholder API key in the code with your own key.
-val response = service.getStockData(
-    function = "GLOBAL_QUOTE",
-    symbol = symbol,
-    apiKey = "YOUR_API_KEY_HERE"
-)
+
 
 
