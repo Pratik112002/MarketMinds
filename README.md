@@ -28,7 +28,7 @@
 
 3.Build and run the app on an emulator or a physical device.
 
-##API Integration
+## API Integration
 This app uses the Alpha Vantage API to fetch real-time stock data. To use the API:
 
 1.Get your free API key from Alpha Vantage.
