@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263956960452",
+    "project_id": "marketminds-f0614",
+    "storage_bucket": "marketminds-f0614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263956960452:android:541a0e67dbaff994c3e591",
+        "android_client_info": {
+          "package_name": "com.example.marketminds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAr6xUs6cAPToOifba1rhWW548OQsCmyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MarketMinds</string>
+    <string name="developed_by_pratik">Developed By Pratik</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="todo">TODO</string>
+    <string name="new_to_marketminds">New to MarketMinds?</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign up</string>
+    <string name="full_name">Full name</string>
+    <string name="Continue">Continue</string>
+    <string name="joined_us_before">Joined us before?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="health_news">Health News</string>
+</resources>
